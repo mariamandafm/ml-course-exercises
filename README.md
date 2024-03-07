@@ -4,7 +4,7 @@ Respostas dos exercícios do curso Open Machine Learning Course: https://mlcours
 
 ## Estrutura do curso
 - [X] Exploratory data analysis with Pandas
-- [ ] Visual data analysis (Seaborn, Matplotlib and Plotly)
+- [X] Visual data analysis (Seaborn, Matplotlib and Plotly)
 - [ ] Classification, Decision Trees and k Nearest Neighbors
 - [ ] Linear Classification and Regression
 - [ ] Bagging and Random Forest
